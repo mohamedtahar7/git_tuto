@@ -1,1 +1,2 @@
-"use strict";
+alert("Roronoa Zoro");
+("use strict");
